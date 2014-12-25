@@ -13,6 +13,7 @@ public class multi {
  */
 	public static double multi(double a, double b)
 	{
+		System.out.println(""+a*b);
 		return a*b;
 	}
 }
